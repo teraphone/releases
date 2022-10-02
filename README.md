@@ -2,14 +2,14 @@
 
 ## Windows
 
-[TERAPHONE-Setup-0.4.5.exe](https://github.com/teraphone/releases/releases/download/v0.4.5/TERAPHONE-Setup-0.4.5.exe)
+[TERAPHONE-Setup-win-x64.exe](https://github.com/teraphone/releases/releases/latest/download/TERAPHONE-Setup-win-x64.exe)
 
 ## macOS
 
 ### Apple Silicon
 
-[TERAPHONE-0.4.5-arm64.dmg](https://github.com/teraphone/releases/releases/download/v0.4.5/TERAPHONE-0.4.5-arm64.dmg)
+[TERAPHONE-Setup-mac-arm64.dmg](https://github.com/teraphone/releases/releases/latest/download/TERAPHONE-Setup-mac-arm64.dmg)
 
 ### Intel
 
-[TERAPHONE-0.4.5.dmg](https://github.com/teraphone/releases/releases/download/v0.4.5/TERAPHONE-0.4.5.dmg)
+[TERAPHONE-Setup-mac-x64.dmg](https://github.com/teraphone/releases/releases/latest/download/TERAPHONE-Setup-mac-x64.dmg)
